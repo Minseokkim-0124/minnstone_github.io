@@ -401,14 +401,6 @@ ninja.data = [{
             },},{id: "news-personal-webpage-is-now-live",
           title: 'Personal webpage is now live!',
           description: "",
-          section: "News",},{id: "news-two-papers-accepted-at-cvpr-2026",
-          title: 'Two papers accepted at CVPR 2026!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/minnstone_github.io/news/announcement_2/";
-            },},{id: "news-our-paper-event-based-motion-deblurring-with-unpaired-data-has-been-selected-as-a-highlight-at-cvpr-2026",
-          title: 'Our paper “Event-based Motion Deblurring with Unpaired Data” has been selected as a...',
-          description: "",
           section: "News",},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
           title: 'Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving',
           description: "Project Leader · December 2024 – December 2025 · Funded by 42DOT",
@@ -476,7 +468,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%65%6F%6E%67%79%68%39%38@%6B%61%69%73%74.%61%63.%6B%72", "_blank");
+          window.open("mailto:%61%6C%73%74%6A%72%78%31%78%31@%6B%61%69%73%74.%61%63.%6B%72", "_blank");
         },
       },{
         id: 'social-rss',
@@ -497,7 +489,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/jeongyh98", "_blank");
+          window.open("https://github.com/Minseokkim-0124", "_blank");
         },
       },{
       id: 'light-theme',
