@@ -6,11 +6,11 @@ subtitle: <a href='#'>VILAB KAIST</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: minseok_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📧 <a href="mailto:alstjrx1x1@kaist.ac.kr">alstjrx1x1@kaist.ac.kr</a></p>
-    <p>🐙 <a href="https://github.com/Minseokkim-0124">github.com/Minseokkim-0124</a></p>
+    <p>🐙 <a href="https://github.com/Minseokkim-0124/">github.com/Minseokkim-0124/</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 selected_projects: true # includes a list of selected research experiences
