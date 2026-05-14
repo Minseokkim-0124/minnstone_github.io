@@ -6,7 +6,7 @@ subtitle: <a href='#'>VILAB KAIST</a>
 
 profile:
   align: right
-  image: ../../minseok_profile.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📧 <a href="mailto:alstjrx1x1@kaist.ac.kr">alstjrx1x1@kaist.ac.kr</a></p>

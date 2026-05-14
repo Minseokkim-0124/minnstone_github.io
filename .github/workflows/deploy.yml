@@ -66,7 +66,6 @@ permissions:
 
 jobs:
   deploy:
-    if: github.actor != 'github-actions[bot]'
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
@@ -104,6 +103,3 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
-          branch: main
-          target-folder: docs
-          clean: false
