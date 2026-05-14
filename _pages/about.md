@@ -33,6 +33,6 @@ education:
 
 Hello! I am a 2nd-year Ph.D. student in VILAB, led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST.
 
-Building upon my foundational background in robust 3D scene understanding (LiDAR, Radar, and Dataset Distillation), my current research vision is deeply focused on understanding human intention in egocentric scenarios. I am actively exploring how these insights can advance egocentric video understanding and shape next-generation AR/VR technologies.
+Building upon my foundational background in robust 3D perception (LiDAR/Radar) and data-efficient learning (Category Discovery & Dataset Distillation), my current research vision is deeply focused on understanding human intention in egocentric scenarios. I am actively exploring how these insights can advance egocentric video understanding and shape next-generation AR/VR technologies.
 
 I am always open to discussions on computer vision, egocentric vision, human Behavior Understanding, and related topics. Feel free to reach out by email.
