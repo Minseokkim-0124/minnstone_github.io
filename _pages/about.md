@@ -31,6 +31,8 @@ education:
     degree: "B.S., Mechanical Engineering, Hanyang University"
 ---
 
-Hello! I am a Ph.D. candidate in [VILAB](https://vi.kaist.ac.kr/) led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. My research interests lie in Computer Vision and Deep Learning, with a particular focus on LiDAR, Radar, and Dataset Distillation for robust 3D scene understanding.
+Hello! I am a 2nd-year Ph.D. student in VILAB, led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST.
 
-I am always open to discussions on computer vision, autonomous driving perception, and related topics. Feel free to reach out by email.
+Building upon my foundational background in robust 3D scene understanding (LiDAR, Radar, and Dataset Distillation), my current research vision is deeply focused on understanding human intention in egocentric scenarios. I am actively exploring how these insights can advance egocentric video understanding and shape next-generation AR/VR technologies.
+
+I am always open to discussions on computer vision, human-centric perception, and related topics. Feel free to reach out by email.
