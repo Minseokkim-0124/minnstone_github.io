@@ -401,46 +401,16 @@ ninja.data = [{
             },},{id: "news-personal-webpage-is-now-live",
           title: 'Personal webpage is now live!',
           description: "",
-          section: "News",},{id: "projects-computer-vision-research-based-on-multimodal-cameras-for-robust-autonomous-driving",
-          title: 'Computer Vision Research Based on Multimodal Cameras for Robust Autonomous Driving',
-          description: "Project Member · March 2022 – February 2026 · Funded by the Korea Government (MSIT)",
+          section: "News",},{id: "projects-development-of-mobility-and-connectivity-platform-for-unmanned-autonomous-delivery",
+          title: 'Development of Mobility and Connectivity Platform for Unmanned Autonomous Delivery',
+          description: "Research Member · March 2025 – Present · Funded by Korea Government (MOTIE)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-development-of-quadrupedal-robot-system-technology-for-surveillance-reconnaissance-and-search-missions",
+          title: 'Development of quadrupedal robot system technology for surveillance, reconnaissance, and search missions',
+          description: "Research Member · March 2023 – December 2024 · Funded by Korea Government (ADD)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-development-of-a-humanoid-robot-pilot-based-on-natural-language-processing-knowledge-base",
-          title: 'Development of a Humanoid Robot Pilot Based on Natural Language Processing Knowledge Base...',
-          description: "Project Member · March 2022 – February 2024 · Funded by Agency for Defense Development (ADD)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-future-mobility-testbed-development-through-it-ai-and-robotics",
-          title: 'Future Mobility Testbed Development through IT, AI, and Robotics',
-          description: "Project Member · March 2022 – January 2023 · Funded by KAIST Institute",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
