@@ -70,6 +70,7 @@ cv:
           - LiDAR
           - Radar
           - Dataset Distillation
+          - Egocentric Vision
 
     Publications:
       - title: "Multimodal Distribution Matching for Vision-Language Dataset Distillation"
@@ -121,17 +122,13 @@ cv:
         location: Hanyang University
 
     Extracurricular Activities:
-      - bullet: "Teaching Assistant, Optimal Design (Spring 2026)"
       - bullet: "Teaching Assistant, Introduction to Visual Intelligence (Spring 2025)"
-      - bullet: "Teaching Assistant, Autonomous Mobile System Programming (Fall 2024, Fall 2025)"
-      - bullet: "Teaching Assistant, Samsung AI Expert (August 2024)"
-      - bullet: "Teaching Assistant, Special Topics in Mechanical Engineering Practice: Programming for Mechanical Engineering Problem Solving (Spring 2024)"
+      - bullet: "Teaching Assistant, Autonomous Mobile System Programming (Fall 2025)"
+      - bullet: "Teaching Assistant, Samsung AI Expert (August 2025, 2026 expected)"
+      - bullet: "Counseling Assistant (Fall 2023 – Fall 2024)"
 
     Academic Services:
-      - bullet: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025"
-      - bullet: "International Conference on Computer Vision (ICCV), 2025"
-      - bullet: "Neural Information Processing Systems (NeurIPS), 2025"
-      - bullet: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+      - bullet: "AAAI Conference on Artificial Intelligence (AAAI), 2025"
 
     Languages:
       - name: Korean
