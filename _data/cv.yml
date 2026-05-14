@@ -1,154 +1,111 @@
 cv:
-  name: Yuhwan Jeong
-  headline: PhD candidate in KAIST
-  email: jeongyh98@kaist.ac.kr
+  name: Minseok Kim
+  headline: Ph.D Candidate in Mechanical Engineering at KAIST
+  email: alstjrx1x1@kaist.ac.kr
   location: Daejeon, South Korea
+  phone: "+82-10-2822-5629"
   photo: ""
 
   sections:
     Summary:
       - "Advisor: Kuk-Jin Yoon"
+      - "Birth: 24th January, 1998 | Nationality: Republic of Korea"
 
     Education:
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, South Korea
         area: Mechanical Engineering
         studyType: Ph.D. Candidate
-        start_date: 2024
+        start_date: 2025
         end_date: Present
         highlights:
-          - "GPA: 3.89/4.3"
           - "Advisor: Kuk-Jin Yoon"
 
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, South Korea
         area: Mechanical Engineering
         studyType: M.S.
-        start_date: 2022
-        end_date: 2024
+        start_date: 2023
+        end_date: 2025
         highlights:
-          - "GPA: 4.00/4.3"
           - "Advisor: Kuk-Jin Yoon"
 
-      - institution: Korea Advanced Institute of Science and Technology (KAIST)
-        location: Daejeon, South Korea
+      - institution: Hanyang University
+        location: Seoul, South Korea
         area: Mechanical Engineering
         studyType: B.S.
         start_date: 2017
-        end_date: 2022
+        end_date: 2023
         highlights:
-          - "GPA: 3.75/4.3"
-
-      - institution: Gyeonggibuk Science High School
-        location: Uijeongbu, South Korea
-        studyType: Graduation
-        start_date: 2014
-        end_date: 2017
+          - "Summa Cum Laude"
 
     Experience:
-      - company: Inbody
-        position: Co-op KAIST Intern
+      - company: Dyros Robotics Bootcamp
+        position: Student
         location: Seoul, South Korea
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - Robotics bootcamp participant
+
+      - company: Hanyang University
+        position: Capstone Design Student
+        location: Seoul, South Korea
+        start_date: 2023
+        end_date: 2023
+        highlights:
+          - "4-link Fruit Harvesting Robot using Sensor Fusion Algorithm using Depth Camera"
+
+      - company: KSAE Student Formula (EV)
+        position: Team RACE
+        location: South Korea
         start_date: 2020
         end_date: 2021
         highlights:
-          - Human skeleton prediction using deep learning-based vision models
-          - Motion estimation from camera data
-
-      - company: KAIST Times
-        position: Photo Journalist & Associate Editor
-        location: Daejeon, South Korea
-        start_date: 2017
-        end_date: 2020
+          - Attended Student Formula (EV) at KSAE 2021
 
     Interests:
-      - name: Computer Vision and Machine Learning
+      - name: Computer Vision and Deep Learning
         keywords:
-          - Optical Flow
-          - Video Diffusion Models
-          - Novel Sensors (Event Camera, LiDAR, RADAR)
-          - Image Restoration & Video Restoration
-          - Multi-Agent Reinforcement Learning
+          - LiDAR
+          - Radar
+          - Dataset Distillation
 
     Publications:
-      - title: Event-based Motion Deblurring with Unpaired Data
+      - title: "Multimodal Distribution Matching for Vision-Language Dataset Distillation"
         publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
         releaseDate: 2026
-        summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon"
+        summary: "Jongoh Jeong*, Hoyong Kwon*, Minseok Kim* and Kuk-Jin Yoon (* equal contribution)"
 
-      - title: "DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR"
-        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+      - title: "Generalized Category Discovery for LiDAR Semantic Segmentation"
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026
         releaseDate: 2026
-        summary: "Hoonhee Cho*, Jae-Young Kang*, Yuhwan Jeong*, Yunseo Yang, Wonyoung Lee, Youngho Kim, and Kuk-Jin Yoon"
+        summary: "Minseok Kim, Jiyong Boo and Kuk-Jin Yoon"
 
-      - title: Robust Adverse Weather Removal via Spectral-based Spatial Grouping
-        publisher: IEEE/CVF International Conference on Computer Vision (ICCV), 2025
-        releaseDate: 2025
-        summary: "Yuhwan Jeong*, Yunseo Yang*, Youngho Yoon*, and Kuk-Jin Yoon"
-
-      - title: Learning Large Motion Estimation from Intermediate Representations with a High-Resolution Optical Flow Dataset Featuring Long-Range Dynamic Motion
-        publisher: IEEE/CVF International Conference on Computer Vision (ICCV), 2025
-        releaseDate: 2025
-        summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon (Highlight Paper)"
-
-      - title: Unifying Low-Resolution and High-Resolution Alignment by Event Cameras for Space-Time Video Super-Resolution
-        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
-        releaseDate: 2025
-        summary: "Hoonhee Cho, Jae-Young Kang, Taewoo Kim, Yuhwan Jeong, and Kuk-Jin Yoon"
-
-      - title: A Benchmark Dataset for Event-guided Human Pose Estimation and Tracking in Extreme Conditions
-        publisher: Advances in Neural Information Processing Systems (NeurIPS), 2024
-        releaseDate: 2024
-        summary: "Hoonhee Cho*, Taewoo Kim*, Yuhwan Jeong, and Kuk-Jin Yoon"
-
-      - title: Towards Real-world Event-guided Low-light Video Enhancement and Deblurring
+      - title: "On-the-fly Category Discovery for LiDAR Semantic Segmentation"
         publisher: European Conference on Computer Vision (ECCV), 2024
         releaseDate: 2024
-        summary: "Taewoo Kim, Jaeseok Jeong, Hoonhee Cho, Yuhwan Jeong, and Kuk-Jin Yoon"
+        summary: "Hyeonseong Kim*, Sung-Hoon Yoon*, Minseok Kim and Kuk-Jin Yoon (* equal contribution)"
 
-      - title: Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation
+      - title: "LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar"
         publisher: European Conference on Computer Vision (ECCV), 2024
         releaseDate: 2024
-        summary: "Yuhwan Jeong*, Hoonhee Cho*, and Kuk-Jin Yoon"
-
-      - title: "TTA-EVF: Test-time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation"
-        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
-        releaseDate: 2024
-        summary: "Hoonhee Cho, Taewoo Kim, Yuhwan Jeong, and Kuk-Jin Yoon"
-
-      - title: Non-coaxial Event-guided Motion Deblurring with Spatial Alignment
-        publisher: IEEE/CVF International Conference on Computer Vision (ICCV), 2023
-        releaseDate: 2023
-        summary: "Hoonhee Cho, Yuhwan Jeong, Taewoo Kim, and Kuk-Jin Yoon"
+        summary: "Yujeong Chae, Hyeonseong Kim, Changgyoon Oh, Minseok Kim, and Kuk-Jin Yoon"
 
     Projects:
-      - name: Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving
-        summary: Funded by 42DOT
-        start_date: 2024
-        end_date: 2025
+      - name: Development of Mobility and Connectivity Platform for Unmanned Autonomous Delivery
+        summary: Funded by Korea Government (The Ministry of Trade, Industry & Energy, MOTIE)
+        start_date: 2025
+        end_date: Present
         highlights:
-          - Project Leader
+          - Research Project
 
-      - name: Computer Vision Research Based on Multimodal Cameras for Robust Autonomous Driving
-        summary: Funded by the Korea Government (MSIT)
-        start_date: 2022
-        end_date: 2026
+      - name: Development of quadrupedal robot system technology for surveillance, reconnaissance, and search missions
+        summary: Funded by Korea Government (Agency for Defense Development, ADD)
+        start_date: 2023
+        end_date: Present
         highlights:
-          - Project Member
-
-      - name: Development of a Humanoid Robot Pilot Based on Natural Language Processing Knowledge Base
-        summary: Funded by Agency for Defense Development (ADD)
-        start_date: 2022
-        end_date: 2024
-        highlights:
-          - Project Member
-
-      - name: Future Mobility Testbed Development through IT, AI, and Robotics
-        summary: Funded by KAIST Institute
-        start_date: 2022
-        end_date: 2023
-        highlights:
-          - Project Member
+          - Research Project
 
     Honors and Awards:
       - name: Vice President of the Doctoral Programme

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>VILAB KAIST</a>
+subtitle: Ph.D. Candidate @ <a href='https://vi.kaist.ac.kr/'>VILAB, KAIST</a>
 
 profile:
   align: right
@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>📧 <a href="mailto:alstjrx1x1@kaist.ac.kr">alstjrx1x1@kaist.ac.kr</a></p>
     <p>🐙 <a href="https://github.com/Minseokkim-0124/">github.com/Minseokkim-0124/</a></p>
+    <p>📍 291 Daehak-ro, Yuseong-gu, Daejeon 34141</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 selected_projects: true # includes a list of selected research experiences
@@ -22,14 +23,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 education:
-  - period: "2024.03 – now"
-    degree: "Ph.D., Mechanical Engineering, KAIST"
-  - period: "2022.03 – 2024.02"
+  - period: "2025.03 – now"
+    degree: "Ph.D. candidate, Mechanical Engineering, KAIST"
+  - period: "2023.03 – 2025.02"
     degree: "M.S., Mechanical Engineering, KAIST"
-  - period: "2017.03 – 2022.02"
-    degree: "B.S., Mechanical Engineering, KAIST"
+  - period: "2017.03 – 2023.02"
+    degree: "B.S., Mechanical Engineering, Hanyang University"
 ---
 
-Hello! I am a third-year Ph.D. student in VILAB led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. I work on Generative Models and Optical Flow. I aim to bridge the gap between high-fidelity scene generation and robust motion estimation, enabling models to adapt quickly to diverse and dynamic environments. Accuracy and Generalization are my core goals, and I benchmark my methods rigorously using both established datasets and real-world conditions.
+Hello! I am a Ph.D. candidate in [VILAB](https://vi.kaist.ac.kr/) led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. My research interests lie in Computer Vision and Deep Learning, with a particular focus on LiDAR, Radar, and Dataset Distillation for robust 3D scene understanding.
 
-I enjoy open discussions on research and practice, and I am always open to exchanging ideas on Generative Models, Optical Flow, and broader computer vision topics. Please feel free to get in touch by email or on LinkedIn.
+I am always open to discussions on computer vision, autonomous driving perception, and related topics. Feel free to reach out by email.
