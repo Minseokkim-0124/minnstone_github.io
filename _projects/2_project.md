@@ -1,16 +1,11 @@
 ---
 layout: page
-title: Computer Vision Research Based on Multimodal Cameras for Robust Autonomous Driving
-description: Project Member · March 2022 – February 2026 · Funded by the Korea Government (MSIT)
+title: Development of quadrupedal robot system technology for surveillance, reconnaissance, and search missions
+description: Research Member · March 2023 – December 2024 · Funded by Korea Government (ADD)
 importance: 2
 category: research
-role: Project Member
-period: March 2022 – February 2026
-start_sort: 20220303
-funder: the Korea Government (MSIT)
 ---
 
-- Role: Project Member
-- Period: March 2022 – February 2026
-- Topic: Computer Vision Research Based on Multimodal Cameras for Robust Autonomous Driving
-- Funding: the Korea Government (MSIT)
+- Role: Research Member
+- Period: March 2023 – December 2024
+- Funding: Korea Government (Agency for Defense Development, ADD)
