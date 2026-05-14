@@ -401,12 +401,7 @@ ninja.data = [{
             },},{id: "news-personal-webpage-is-now-live",
           title: 'Personal webpage is now live!',
           description: "",
-          section: "News",},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
-          title: 'Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving',
-          description: "Project Leader · December 2024 – December 2025 · Funded by 42DOT",
-          section: "Projects",handler: () => {
-              window.location.href = "/minnstone_github.io/projects/1_project/";
-            },},{id: "projects-computer-vision-research-based-on-multimodal-cameras-for-robust-autonomous-driving",
+          section: "News",},{id: "projects-computer-vision-research-based-on-multimodal-cameras-for-robust-autonomous-driving",
           title: 'Computer Vision Research Based on Multimodal Cameras for Robust Autonomous Driving',
           description: "Project Member · March 2022 – February 2026 · Funded by the Korea Government (MSIT)",
           section: "Projects",handler: () => {
@@ -461,7 +456,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/minnstone_github.io/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/minnstone_github.io/assets/pdf/Academic_Curriculum_Vitae.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -482,7 +477,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=12QxXIsAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=74B4XPgAAAAJ", "_blank");
         },
       },{
         id: 'social-github',
