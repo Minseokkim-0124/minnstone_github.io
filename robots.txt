@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Minseokkim-0124.github.io/minnstone_github.io/sitemap.xml
+Sitemap: https://Minseokkim-0124.github.io/sitemap.xml
