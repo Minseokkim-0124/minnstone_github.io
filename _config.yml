@@ -14,7 +14,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: car.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: png-clipart-caduceus-logo-edward-elric-fullmetal-alchemist-symbol-alchemy-homunculus-symbolic-miscel.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Minseokkim-0124.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
