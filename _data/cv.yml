@@ -40,14 +40,6 @@ cv:
           - "Summa Cum Laude"
 
     Experience:
-      - company: Dyros Robotics Bootcamp
-        position: Student
-        location: Seoul, South Korea
-        start_date: 2022
-        end_date: 2022
-        highlights:
-          - Robotics bootcamp participant
-
       - company: Hanyang University
         position: Capstone Design Student
         location: Seoul, South Korea
@@ -55,6 +47,14 @@ cv:
         end_date: 2023
         highlights:
           - "4-link Fruit Harvesting Robot using Sensor Fusion Algorithm using Depth Camera"
+
+      - company: Dyros Robotics Bootcamp
+        position: Student
+        location: Seoul, South Korea
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - Robotics bootcamp participant
 
       - company: KSAE Student Formula (EV)
         position: Team RACE
